@@ -1,0 +1,20 @@
+[
+  {
+  "model": "inventory.Artist",
+  "fields": {
+    "name": "U2"
+  }
+},
+{
+"model": "inventory.Artist",
+"fields": {
+  "name": "Led Zeppelin"
+}
+},
+{
+"model": "inventory.Artist",
+"fields": {
+  "name": "Take That"
+}
+}
+]
